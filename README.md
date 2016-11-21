@@ -2,11 +2,10 @@
 running through the tutorial
 
 Let's test the indentation
-  level one
-  still level one
-    level two
-      three
-  shift-tab works
-That's as expected
+  * level one
+  * still level one
+      * two
+          * three
+  
 
 How would I write a unit test for README?
